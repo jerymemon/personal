@@ -1,0 +1,454 @@
+.navbar{
+    background-color: black;
+    box-shadow: 1px 1px 1px 1px white;
+}
+.men1 img{
+    background-size: 100% 100%;
+    height: 300px;
+    /* margin-left: 200px; */
+    /* width: 400px; */
+    margin-top: 100px;
+    border-radius: 20px;
+    margin-left: 80px;
+}
+.men p{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.men h6{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.men h1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.men button{
+    background-color: red;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 10px;
+    /* margin-top: 30px; */
+}
+.abo p{
+    color: white;
+    align-items: center;
+    /* text-align: center; */
+    width: auto;
+    /* font-style: italic; */
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#jj{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 7%;
+}
+#jj span{
+    color: red;
+    font-size: 18px;
+}
+.abo button{
+    background-color: red;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.abo1{
+    padding: 15px;
+}
+.abo1 p{
+    color: white;
+}
+.abo1 i{
+    color:red;
+    font-size: 30px;
+}
+.abo1 h2{
+    color: white;
+}
+.h8{
+    font-size: 19px;
+    color: white;
+    font-weight: bold;
+}
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+  /* background-color: #ddd; Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 90%; background-color: #04AA6D;} /* Green */
+.css {width: 80%; background-color: #2196F3;} /* Blue */
+.js {width: 60%; background-color: orange;} /* Red */
+.php {width: 80%; background-color:red;} /* Dark Grey */
+.moon{
+    background-color:#222;
+    /* box-shadow: 3px 3px 3px grey; */
+    padding: 20px;
+    width: 350px;
+    margin-left: 30px;
+}
+.ter {
+    background-image: url("../IMG_20220419_135306.jpg");
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-size: 100% 100%;
+}
+.moon h2{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.moon p{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+.moon i {
+    color: red;
+}
+.moon:hover{
+    background-color: red;
+}
+.id{
+    color: white;
+}
+.id i{
+    color: red;
+    font-size: 20px;
+}
+.id i span{
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+}
+.id h6{
+    margin-left: 30px;
+    font-size: 20px;
+    padding: 5px;
+}
+.id h2{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.if input{
+    width: 250px;
+    margin-left: 10px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    outline: 1px solid white;
+}
+textarea{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    outline: 1px solid white;
+}
+.if h3{
+    color: white;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.if button{
+    padding: 5px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 7px;
+    margin-top: 10px;
+}
+
+
+
+
+.abo img {
+    border-radius: 30px;
+    height: 300px;
+    margin-top: 90px;
+}
+
+
+.pro img{
+    height: 300px;
+    width: 400px;
+}
+.pro a button {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.pro1 img{
+    height: 300px;
+    width: 400px;
+    margin-left: 100px;
+}
+.pro1 a button {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  /* body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #343F4F;
+  } */
+  .wrapper{
+    display: flex;
+  }
+  .wrapper .static-txt{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+  }
+  .wrapper .dynamic-txts{
+    /* margin-left: px; */
+    height: 90px;
+    line-height: 90px;
+    overflow: hidden;
+  }
+  .dynamic-txts li{
+    list-style: none;
+    color:red;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    top: 0;
+    animation: slide 12s steps(4) infinite;
+  }
+  @keyframes slide {
+    100%{
+      top: -360px;
+    }
+  }
+  .dynamic-txts li span{
+    /* position: relative; */
+    /* margin: 0px 0; */
+    line-height: 0px;
+    margin-left: -10px;
+  }
+  .dynamic-txts li span::after{
+    content: "";
+    position: absolute;
+    margin-top: 27px;
+    left: 0;
+    height: 30px;
+    width: 100%;
+    background: red;
+    border-left: 2px solid white;
+    animation: typing 3s steps(10) infinite;
+  }
+  @keyframes typing {
+    40%, 60%{
+      left: calc(100% + 30px);
+    }
+    100%{
+      left: 0;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:414px)
+{
+    .men1 img{
+        margin-left: 50px;
+    }
+    #ko {
+        font-size: 20px;
+    }
+    .abo img{
+        margin-left: 50px;
+    }
+    #jj{
+        margin-top: 150px;
+    }
+    .men h1{
+        font-size: 30px;
+    }
+    div .abo1{
+        margin-top: 40px;
+    }
+    li span{
+        font-size: 20px;
+    }
+    .moon{
+        margin-left: 5px;
+    }
+    #mn{
+        width: 300px;
+    }
+    .if input{
+        margin-top: 15px;
+    }
+    .pro1 img {
+        margin-left: 0px;
+        margin-top: 50px;
+    }
+    .pro1 a button {
+        margin-left: 0px;
+        /* margin-top: 50px; */
+    }
+}
+
+
+@media(min-width:414px)
+{
+    #ko{
+        font-size: 30px;
+    }
+    li span {
+        font-size: 20px;
+    }
+    /* .abo img {
+
+    } */
+}
+@media(max-width:900px)
+{
+    .pro1 img {
+        margin-left: 0px;
+        /* margin-top: 50px; */
+    }
+    .pro1 a button {
+        margin-left: 0px;
+        /* margin-top: 50px; */
+    }
+}
